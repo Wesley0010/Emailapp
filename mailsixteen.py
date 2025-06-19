@@ -32,7 +32,7 @@ def update_datetime():
 
 #setting the password
 def access_pass():
-    password.set("yrok sois infx goow")
+    password.set("utrk avyd infx gptw")
 
 #the smtp protocal to send emails
 def send_email():
